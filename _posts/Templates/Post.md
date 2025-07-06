@@ -6,7 +6,7 @@ categories: [dev-journal, project-notes, how-to, meta, tools-I-like]
 tags: 
 ---
 <%*
-const date = tp.date.now("YYYY-MM-DD");
+const date = tp.date.now("YYYY-M-D");
 const rawTitle = tp.file.title;
 const hyphenatedTitle = rawTitle.trim().replace(/\s+/g, "-");
 const newTitle = `${date}-${hyphenatedTitle}`;

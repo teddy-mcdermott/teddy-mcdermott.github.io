@@ -9,7 +9,7 @@ timezone: Europe/London
 
 # Site Metadata for SEO and Feeds
 title: Teddy McDermott
-tagline: "London-based Physics Graduate from UCL, pursuing a career in Software Development & IT."
+tagline: "UCL Physics Graduate exploring Software Development"
 description: >-
   Personal blog and portfolio of Teddy McDermott — UCL Physics graduate, exploring software engineering, computing, and technology.
 
@@ -52,12 +52,15 @@ analytics:
   fathom:
     id:
 
+
+  # Optional but useful: enable the extra-head include
+inject:
+  head:
+    - extra-head.html
+
 # Page views
 pageviews:
   provider:
-
-# Theme mode (dark, light, or leave empty for system default)
-theme_mode:
 
 # Avatar image (sidebar)
 avatar: "/images/me.jpg"
@@ -70,22 +73,10 @@ toc: true
 
 # Comments (choose one and configure)
 comments:
-  provider: # disqus | utterances | giscus
-  disqus:
-    shortname:
+  provider: utterances
   utterances:
-    repo:
-    issue_term:
-  giscus:
-    repo:
-    repo_id:
-    category:
-    category_id:
-    mapping:
-    strict:
-    input_position:
-    lang:
-    reactions_enabled:
+    repo: "wayworm/wayworm.github.io" # Replace with your actual repository (username/repo-name)
+    issue_term: "pathname" # Maps comments to posts based on their path
 
 # Self-hosted assets
 assets:

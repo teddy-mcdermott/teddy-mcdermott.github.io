@@ -20,15 +20,16 @@ To:
 
 in ```post-description.html```
 
-<br>
-<br>
-<br>
+
+
+
+
 
 ### Overview
 I noticed the search feature on this blog wasn't working, so I fixed it. I assumed the issue was going to be with how 
 the page was build, like a dependency issue.
 
-It turns out that the json files being generated to be presented in the search results were not escaped properly when the liquid template passed in data. I spent a lot of time thinking it would be other issues, I hope you didn't have to. **Always check the console...**
+It turns out that the json files being generated to be presented in the search results were not escaped properly when the [liquid](https://shopify.github.io/liquid/) template passed in data. I spent a lot of time thinking it would be other issues, now you didn't have to. **Always check the console...**
 
 
 ### post-description.html
