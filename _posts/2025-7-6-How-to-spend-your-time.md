@@ -93,11 +93,4 @@ The worst place to be, where we all are, is somewhere in the [middle](https://ww
 
 But, hang on, what kind of brain I want is a very personal question and it won't be the same for everyone, so we'd probably part ways at this juncture, we'd all follow different careers to become what we want to be. Congratulations if you believe you've found the right path.
 
-	I feel like boredom is a hurdle to be mounted. If you can deal with complete boredom, then you can deal with any subject matter you want - and I think curiosity is just the willingness to refuse to let boredom win. At that stage no pursue is more noble than any other, it's all just a choice to get stuck in, or to not.
-
-So: get a really boring job, and try and make yourself as bored as possible and see what it does to you. You might figure out what you want.
-
-My accounting interview is in 4 days....
-
-
-I'm not done here, but I felt I need to post to get into a good habit of it.
+I think it takes a lifetime to figure out what you want to spend your time on, and how you want to spend your time might change from day to day. IF it's a fruitless idea to try and plan so far ahead, we should focus more on short term goals and those things we want to get done in ~ 1 year or so. That's why I've been making [LifeMap](https://www.teddymcdermott.co.uk/posts/LifeMap/), because I think it'll help me manage those things I want to do.
