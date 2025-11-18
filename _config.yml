@@ -9,22 +9,22 @@ timezone: Europe/London
 
 # Site Metadata for SEO and Feeds
 title: Teddy McDermott
-tagline: "UCL Physics Graduate exploring Software Development"
+tagline: "UCL Physics Graduate"
 description: >-
-  Personal blog and portfolio of Teddy McDermott — UCL Physics graduate, exploring software engineering, computing, and technology.
+  Personal blog and portfolio of Teddy McDermott — UCL Physics graduate, exploring software engineering, IT, Data Science and Analytics.
 
 # Your site URL (e.g., GitHub Pages repo URL)
-url: "https://wayworm.github.io" # Replace with your actual deployment URL
+url: "https://teddy-mcdermott.github.io" # Replace with your actual deployment URL
 
 # Social Media & Author Info
 github:
-  username: wayworm
+  username: teddy-mcdermott
 
 social:
   name: Teddy McDermott
   email: teddyraymcdermott@gmail.com
   links:
-    - https://github.com/wayworm
+    - https://github.com/teddy-mcdermott
     - mailto:teddyraymcdermott@gmail.com
     - https://www.linkedin.com/in/teddy-mcdermott-5756bb257/
 
@@ -75,7 +75,7 @@ toc: true
 comments:
   provider: utterances
   utterances:
-    repo: "wayworm/wayworm.github.io" # Replace with your actual repository (username/repo-name)
+    repo: "teddy-mcdermott/teddy-mcdermott.github.io" # Replace with your actual repository (username/repo-name)
     issue_term: "pathname" # Maps comments to posts based on their path
 
 # Self-hosted assets
