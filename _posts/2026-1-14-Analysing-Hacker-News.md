@@ -3,6 +3,8 @@ creation date: 14/01/2026 05:33
 modification date: 14/01/2026 05:33
 math: true
 categories:
+  - projects
+  - project-notes
   - homelab
   - virtualization
   - software engineering
@@ -24,6 +26,7 @@ tags:
 title: "Analysing Hacker News."
 js: /assets/js/mementomori.js
 countdown_target: "January 5, 2081 00:00:00"
+title: "LifeMap"
 ---
 
 # Analysing Hacker News: Trends, Topics, and Influence
