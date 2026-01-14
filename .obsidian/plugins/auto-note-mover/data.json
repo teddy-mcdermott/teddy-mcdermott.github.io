@@ -1,0 +1,63 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Objects",
+      "tag": "#object",
+      "pattern": ""
+    },
+    {
+      "folder": "Objects/Books",
+      "tag": "#book",
+      "pattern": ""
+    },
+    {
+      "folder": "Objects/Modules",
+      "tag": "#module",
+      "pattern": ""
+    },
+    {
+      "folder": "Places",
+      "tag": "#place",
+      "pattern": ""
+    },
+    {
+      "folder": "People/Family",
+      "tag": "#family",
+      "pattern": ""
+    },
+    {
+      "folder": "People/Friends",
+      "tag": "#friend",
+      "pattern": ""
+    },
+    {
+      "folder": "People",
+      "tag": "#person",
+      "pattern": ""
+    },
+    {
+      "folder": "Lists",
+      "tag": "#list",
+      "pattern": ""
+    },
+    {
+      "folder": "Objects/Words",
+      "tag": "#word",
+      "pattern": ""
+    },
+    {
+      "folder": "Objects/Films",
+      "tag": "#film",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

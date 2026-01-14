@@ -1,0 +1,18 @@
+/* Example: Color tasks with #work */
+div.task-list-item[data-task-text*="#work"] {
+  --checkbox-color: #007acc;
+  color: #007acc;
+}
+
+/* Example: Color tasks with #personal */
+div.task-list-item[data-task-text*="#personal"] {
+  --checkbox-color: #d16ba5;
+  color: #d16ba5;
+}
+
+/* Example: Color tasks with #urgent */
+div.task-list-item[data-task-text*="#urgent"] {
+  --checkbox-color: #e63946;
+  color: #e63946;
+  font-weight: bold;
+}

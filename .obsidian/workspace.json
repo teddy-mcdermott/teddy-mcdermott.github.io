@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "c65921df2696c0b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d09bc3ae5da629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d05d9196559be0fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-1-14-Analysing-Hacker-News.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-1-14-Analysing-Hacker-News"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602a73564ff95457",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2cd07e5028011af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1837da7f2c654eaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92760aba93deec1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Here are some of my projects:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b32a058b5c69134",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "28ca0cf1827e07e0",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
+            }
+          },
+          {
+            "id": "bb9cb2211b008c16",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
+            }
+          },
+          {
+            "id": "7d9b81920e2c9442",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "767c58d5ea17e7c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139a8c8ec30c2909",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "e3215ecc82ff673f",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b29997a8746156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a730f2974687c38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2025-05-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-05-20"
+            }
+          },
+          {
+            "id": "f3163c7bb38f0a70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2025-02-06.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-06"
+            }
+          },
+          {
+            "id": "1b31b25bca269583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b76c186a89834291",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2025-05-20.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-20"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d05d9196559be0fa",
+  "lastOpenFiles": [
+    "_posts/2026-1-14-Using-Docker-and-Docker-Compose.md",
+    "_posts/2025-7-3-LifeMap.md",
+    "_tabs/projects.md",
+    "_posts/2026-1-14-Analysing-Hacker-News.md",
+    "_posts/hidden_2025-7-6-How-to-spend-your-time.md",
+    "_site/posts/Using-Docker-and-Docker-Compose/index.html",
+    "_site/posts/Using-Docker-and-Docker-Compose",
+    "_site/categories/tools-i-like/index.html",
+    "_site/categories/tools-i-like",
+    "_site/categories/how-to/index.html",
+    "_site/categories/how-to",
+    "_site/tags/data-engineering/index.html",
+    "_site/tags/data-engineering",
+    "_site/tags/containers/index.html",
+    "_site/tags/containers",
+    "_posts/2025-6-4-Jekyll-Search-MathJax-Bug.md",
+    "_posts/2025-6-3-Changing-Jekyll-Themes.md",
+    "_posts/2025-6-2-My-first-day-with-Jekyll.md",
+    "_posts/2026-1-14-Analysing-Hacker-News 1.md",
+    "2026-1-14-Using-Docker-and-Docker-Compose.md",
+    "hidden_2025-7-6-How-to-spend-your-time.md",
+    "2025-6-2-My-first-day-with-Jekyll.md",
+    "2026-1-14-Analysing-Hacker-News.md",
+    "2025-6-3-Changing-Jekyll-Themes.md",
+    "2025-6-4-Jekyll-Search-MathJax-Bug.md",
+    "Templates/Post.md",
+    "Lists/My Ideas.md",
+    "Daily Notes/2026-01-14.md",
+    "Lists/My 10 things.md",
+    "Lists/Master's Degrees.md",
+    "Lists/King.md",
+    "Lists/Interests.md",
+    "Lists/Games to play.md",
+    "Lists/Films to watch.md",
+    "Lists/Courses I've looked at.md",
+    "Lists/Christmas Gifts.md",
+    "Untitled.canvas",
+    "Pasted image 20251209003423.png",
+    "Earth from the Moon.jpg"
+  ]
+}

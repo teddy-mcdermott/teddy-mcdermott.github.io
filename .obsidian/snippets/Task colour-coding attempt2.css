@@ -1,0 +1,21 @@
+/* #work tag */
+.markdown-preview-view li[data-task-text*="#work"],
+li.task-list-item[data-task-text*="#work"] {
+  --checkbox-color: #007acc;
+  color: #007acc;
+}
+
+/* #personal tag */
+.markdown-preview-view li[data-task-text*="#personal"],
+li.task-list-item[data-task-text*="#personal"] {
+  --checkbox-color: #d16ba5;
+  color: #d16ba5;
+}
+
+/* #urgent tag */
+.markdown-preview-view li[data-task-text*="#urgent"],
+li.task-list-item[data-task-text*="#urgent"] {
+  --checkbox-color: #e63946;
+  color: #e63946;
+  font-weight: bold;
+}

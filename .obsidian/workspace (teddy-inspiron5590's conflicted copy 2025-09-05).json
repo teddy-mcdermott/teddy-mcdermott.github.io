@@ -1,0 +1,347 @@
+{
+  "main": {
+    "id": "c65921df2696c0b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38f8bf8aadc3019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eedc88ab40cb8f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lists/Applications.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Applications"
+            }
+          },
+          {
+            "id": "fedc226ba7786131",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "1f052ed79ae1f1e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lists/Films to watch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Films to watch"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602a73564ff95457",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2cd07e5028011af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1837da7f2c654eaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92760aba93deec1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "check if rearrang",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b32a058b5c69134",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5093cc561e0f5c7d",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5e8a12a73a9c52db",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f02089341ecd88d9",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4817118363dcbab0",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "30252b2106d5267e",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "db6cdc7a79d41c5f",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b21761f49eed31e4",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "767c58d5ea17e7c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139a8c8ec30c2909",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "e3215ecc82ff673f",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b29997a8746156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a730f2974687c38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2025-05-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-05-20"
+            }
+          },
+          {
+            "id": "f3163c7bb38f0a70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2025-02-06.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-06"
+            }
+          },
+          {
+            "id": "1b31b25bca269583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b76c186a89834291",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2025-05-20.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-20"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fedc226ba7786131",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
+    "Lists/Applications.md",
+    "Lists/Films to watch.md",
+    "Lists/Books to read.md",
+    "Lists/Jokes.md",
+    "Lists/Games to play.md",
+    "Lists/Interests.md",
+    "Daily Notes/2025-02-28.md",
+    "People/Family/Mum.md",
+    "Hello.md",
+    "Places/Bexleyhealth.md",
+    "Daily Notes/2025-07-31.md",
+    "Daily Notes/2025-07-17.md",
+    "Lists/Master's Degrees.md",
+    "Lists/Universties.md",
+    "Interview practise feedback/Tell me about yourself and your background.md",
+    "Interview practise feedback",
+    "Lists/Courses I've looked at.md",
+    "Daily Notes/2025-07-09.md",
+    "Daily Notes/2025-07-06.md",
+    "People/Family/Hayley.md",
+    "Daily Notes/2025-06-05.md",
+    "Earth from the Moon.jpg",
+    "Example.md",
+    "Daily Notes/2025-06-06.md",
+    "Daily Notes/2025-06-07.md",
+    "Templates/Daily Note Template.md",
+    "Daily Notes/2025-06-19.md",
+    "Objects/Document/Big Five Personality Results.pdf",
+    "Objects/Films",
+    "Objects/Words",
+    "Lists",
+    "People/Family",
+    "People/Friends",
+    "Places",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "c65921df2696c0b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f59a2b1f249424cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0839cb5e52b8aa3b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602a73564ff95457",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2cd07e5028011af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1837da7f2c654eaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92760aba93deec1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b32a058b5c69134",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "47921a09fd465139",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "767c58d5ea17e7c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139a8c8ec30c2909",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "e3215ecc82ff673f",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b29997a8746156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a730f2974687c38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2025-02-06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-06"
+            }
+          },
+          {
+            "id": "f3163c7bb38f0a70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2025-02-06.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-06"
+            }
+          },
+          {
+            "id": "1b31b25bca269583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b76c186a89834291",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2025-02-06.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-06"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0839cb5e52b8aa3b",
+  "lastOpenFiles": [
+    "Daily Notes/2025-05-16.md",
+    "Daily Notes/2025-05-15.md",
+    "Templates/Daily Note Template (EXPERIMENTAL).md",
+    "Daily Notes/2025-05-14.md",
+    "Untitled.md",
+    "Templates/Weekly Note Template.md",
+    "Templates/Monthly Note Template.md",
+    "Templates/Daily Note Template.md",
+    "Daily Notes/2025-05-13.md",
+    "A new file.md",
+    "balh.md",
+    "Lists/TO-DO List.md",
+    "Lists/Books I'm interested in.md",
+    "Lists/Master's Degrees.md",
+    "Most linked.md",
+    "2026-01-04.md",
+    "Blah.md",
+    "Objects/Document/Big Five Personality Results.pdf",
+    "Objects/Big 5 Personality test.md",
+    "Lists/Manga I'm reading.md",
+    "Lists/Films to watch.md",
+    "Lists/Birthdays.md",
+    "Objects/Books/Demian.md",
+    "Monthly Notes/March-2025.md",
+    "Lists/Untitled.md",
+    "Daily Notes/2025-04-21.md",
+    "Daily Notes/2025-04-26.md",
+    "Objects/Films",
+    "Untitled",
+    "Objects/Words",
+    "Lists",
+    "People/Family",
+    "People/Friends",
+    "Places",
+    "Objects/Document",
+    "Objects/New folder",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "link-with-alias:create-link-with-alias": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "various-complements:show-suggestions": [],
+  "templater-obsidian:Templates/Daily Note Template (EXPERIMENTAL).md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "PageUp"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "/"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
+}

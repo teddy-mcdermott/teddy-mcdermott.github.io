@@ -1,12 +1,12 @@
 ---
-creation date: 14/01/2026 05:33
-modification date: 14/01/2026 05:33
+creation date: 2026-01-14 05:33
+modification date: 2026-01-14 05:33
 math: true
 categories:
   - projects
   - project-notes
   - homelab
-  - virtualization
+  - virtualisation
   - software engineering
   - containerization
   - CI/CD
@@ -26,8 +26,10 @@ tags:
 title: "Analysing Hacker News: Trends, Topics, and Influence"
 ---
 
-
 **Preface: this write-up is currently incomplete.**
+
+[GitHub page](ps://github.com/teddy-mcdermott/hacker-news-analytics)
+
 
 ## Introduction
 
@@ -308,10 +310,6 @@ I created separate analyses for:
 - **Analysis**: BERTopic, sentence-transformers, scikit-learn
 - **Visualization**: Matplotlib, Seaborn
 - **Deployment**: [Details if applicable]
-
-### Code Repository
-
-[Link to GitHub repository if public]
 
 ---
 

@@ -9,6 +9,7 @@ tags:
 title: LifeMap
 ---
 
+ [GitHub](https://github.com/teddy-mcdermott/LifeMap)
 
 **Technologies:**  Python, Flask, SQLite, HTML, CSS, JavaScript, Jinja2, Bootstrap, Font Awesome
 
