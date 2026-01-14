@@ -23,13 +23,9 @@ tags:
   - self-hosting
   - learning
 
-title: "Analysing Hacker News"
-js: /assets/js/mementomori.js
-countdown_target: "January 5, 2081 00:00:00"
-title: "LifeMap"
+title: "Analysing Hacker News: Trends, Topics, and Influence"
 ---
 
-# Analysing Hacker News: Trends, Topics, and Influence
 
 **Preface: this write-up is currently incomplete.**
 
