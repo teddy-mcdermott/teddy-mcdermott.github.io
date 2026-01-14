@@ -35,7 +35,7 @@ title: "LifeMap"
 
 ## Introduction
 
-This project aims to explore historical patterns in posts and comments on [Hacker News](news.ycombinator.com) using data mining and machine learning techniques. I set out to answer three key questions:
+This project aims to explore historical patterns in posts and comments on [Hacker News](https://news.ycombinator.com) using data mining and machine learning techniques. I set out to answer three key questions:
 
 Q1. **How has the popularity of programming languages changed over time?**
 Q2. **What categories of content are most popular on Hacker News?**
@@ -47,7 +47,7 @@ To answer these questions, I collected my own copy of the complete history of po
 
 ## Data Collection
 
-I collected all posts (stories) and comments from [news.ycombinator.com](https://news.ycombinator.com) using the [Hacker News API](https://github.com/HackerNews/API).
+I collected all posts (stories) and comments from [Hacker News](https://news.ycombinator.com) using the [Hacker News API](https://github.com/HackerNews/API).
 
 ### Collection Architecture
 
@@ -154,7 +154,7 @@ The web interface allows users to enter keywords, select time bins, and configur
 
 Example visualisation:
 
-![A graph comparing the relative number of posts containing the terms "Python", "Java", "Javascript", "Rust", "C++", "AI", "ML" showing the term C++ to be more popular than the others, until a spiking of usage in the term AI from last 2022, where it begins to dominate.](<images/plot_20260114_061809_java, python, rust.png>)
+![A graph comparing the relative number of posts containing the terms "Python", "Java", "Javascript", "Rust", "C++", "AI", "ML" showing the term C++ to be more popular than the others, until a spiking of usage in the term AI from last 2022, where it begins to dominate.](<images/plot_java_python_rust.png>)
 
 **Key observations:**
 
