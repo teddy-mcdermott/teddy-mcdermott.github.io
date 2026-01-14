@@ -151,7 +151,7 @@ The web interface allows users to enter keywords, select time bins, and configur
 
 Example visualisation:
 
-![A graph comparing the relative number of posts containing the terms "Python", "Java", "Javascript", "Rust", "C++", "AI", "ML" showing the term C++ to be more popular than the others, until a spiking of usage in the term AI from last 2022, where it begins to dominate.](images/posts_python_java_javascript_rust_C++_AI_ML_normalised_rolling_average-10.png)
+![A graph comparing the relative number of posts containing the terms "Python", "Java", "Javascript", "Rust", "C++", "AI", "ML" showing the term C++ to be more popular than the others, until a spiking of usage in the term AI from last 2022, where it begins to dominate.](<images/plot_20260114_061809_java, python, rust.png>)
 
 **Key observations:**
 
