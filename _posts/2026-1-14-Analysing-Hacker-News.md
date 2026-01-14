@@ -1,3 +1,31 @@
+---
+creation date: 14/01/2026 05:33
+modification date: 14/01/2026 05:33
+math: true
+categories:
+  - homelab
+  - virtualization
+  - software engineering
+  - containerization
+  - CI/CD
+  - python development
+tags:
+  - homelab
+  - docker
+  - python
+  - CI/CD
+  - automation
+  - infrastructure
+  - virtualisation
+  - deployment
+  - self-hosting
+  - learning
+
+title: "Analysing Hacker News."
+js: /assets/js/mementomori.js
+countdown_target: "January 5, 2081 00:00:00"
+---
+
 # Analysing Hacker News: Trends, Topics, and Influence
 
 **Preface: this write-up is currently incomplete.**
