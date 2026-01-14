@@ -28,7 +28,7 @@ title: "Analysing Hacker News: Trends, Topics, and Influence"
 
 **Preface: this write-up is currently incomplete.**
 
-[GitHub page](ps://github.com/teddy-mcdermott/hacker-news-analytics)
+[GitHub page](https://github.com/teddy-mcdermott/hacker-news-analytics)
 
 
 ## Introduction
